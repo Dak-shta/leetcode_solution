@@ -65,3 +65,15 @@ Each problem is an opportunity to learn something new and improve upon previous 
 ⭐ If you find this repository useful, feel free to explore the solutions and share suggestions.
 
 *Learning consistently. Solving problems. Getting better every day.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0061-rotate-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0061-rotate-list/) | Medium |
+<!---LeetCode Topics End-->
