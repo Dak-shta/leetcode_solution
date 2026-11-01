@@ -73,6 +73,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Dak-shta/leetcode_solution/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0061-rotate-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 ## Two Pointers
