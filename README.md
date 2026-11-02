@@ -73,6 +73,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Dak-shta/leetcode_solution/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0061-rotate-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
@@ -80,6 +81,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0061-rotate-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dak-shta/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
