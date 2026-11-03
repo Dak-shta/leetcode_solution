@@ -123,6 +123,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dak-shta/leetcode_solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dak-shta/leetcode_solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dak-shta/leetcode_solution/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dak-shta/leetcode_solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
