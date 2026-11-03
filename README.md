@@ -94,6 +94,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0817-linked-list-components](https://github.com/Dak-shta/leetcode_solution/tree/main/0817-linked-list-components/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dak-shta/leetcode_solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dak-shta/leetcode_solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dak-shta/leetcode_solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dak-shta/leetcode_solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
