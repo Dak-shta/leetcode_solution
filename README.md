@@ -75,6 +75,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | [0061-rotate-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0061-rotate-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0817-linked-list-components](https://github.com/Dak-shta/leetcode_solution/tree/main/0817-linked-list-components/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Dak-shta/leetcode_solution/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
@@ -91,6 +92,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dak-shta/leetcode_solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dak-shta/leetcode_solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0817-linked-list-components](https://github.com/Dak-shta/leetcode_solution/tree/main/0817-linked-list-components/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -109,6 +111,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0817-linked-list-components](https://github.com/Dak-shta/leetcode_solution/tree/main/0817-linked-list-components/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
