@@ -85,6 +85,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | [0061-rotate-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0061-rotate-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dak-shta/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dak-shta/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,11 +95,13 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0817-linked-list-components](https://github.com/Dak-shta/leetcode_solution/tree/main/0817-linked-list-components/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dak-shta/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dak-shta/leetcode_solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dak-shta/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dak-shta/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +132,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dak-shta/leetcode_solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dak-shta/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
