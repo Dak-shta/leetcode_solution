@@ -74,6 +74,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | [0024-swap-nodes-in-pairs](https://github.com/Dak-shta/leetcode_solution/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0061-rotate-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dak-shta/leetcode_solution/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0148-sort-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0817-linked-list-components](https://github.com/Dak-shta/leetcode_solution/tree/main/0817-linked-list-components/) | Medium |
@@ -84,6 +85,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0061-rotate-list/) | Medium |
+| [0148-sort-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dak-shta/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dak-shta/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -134,6 +136,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0148-sort-list/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dak-shta/leetcode_solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dak-shta/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## String
@@ -150,6 +153,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dak-shta/leetcode_solution/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0148-sort-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0148-sort-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,4 +170,8 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2848-points-that-intersect-with-cars](https://github.com/Dak-shta/leetcode_solution/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
