@@ -97,6 +97,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | [0817-linked-list-components](https://github.com/Dak-shta/leetcode_solution/tree/main/0817-linked-list-components/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dak-shta/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2848-points-that-intersect-with-cars](https://github.com/Dak-shta/leetcode_solution/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dak-shta/leetcode_solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0817-linked-list-components](https://github.com/Dak-shta/leetcode_solution/tree/main/0817-linked-list-components/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
+| [2848-points-that-intersect-with-cars](https://github.com/Dak-shta/leetcode_solution/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,4 +162,8 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dak-shta/leetcode_solution/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2848-points-that-intersect-with-cars](https://github.com/Dak-shta/leetcode_solution/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 <!---LeetCode Topics End-->
