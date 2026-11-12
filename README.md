@@ -102,6 +102,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | [1019-next-greater-node-in-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dak-shta/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Dak-shta/leetcode_solution/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dak-shta/leetcode_solution/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dak-shta/leetcode_solution/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dak-shta/leetcode_solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
