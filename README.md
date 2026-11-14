@@ -105,6 +105,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | [2848-points-that-intersect-with-cars](https://github.com/Dak-shta/leetcode_solution/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dak-shta/leetcode_solution/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dak-shta/leetcode_solution/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Dak-shta/leetcode_solution/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dak-shta/leetcode_solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -182,8 +183,13 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2848-points-that-intersect-with-cars](https://github.com/Dak-shta/leetcode_solution/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Dak-shta/leetcode_solution/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0148-sort-list/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Dak-shta/leetcode_solution/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
