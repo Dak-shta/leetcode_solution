@@ -156,6 +156,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Dak-shta/leetcode_solution/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Dak-shta/leetcode_solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
