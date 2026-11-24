@@ -107,6 +107,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dak-shta/leetcode_solution/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dak-shta/leetcode_solution/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dak-shta/leetcode_solution/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dak-shta/leetcode_solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dak-shta/leetcode_solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dak-shta/leetcode_solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dak-shta/leetcode_solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/Dak-shta/leetcode_solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dak-shta/leetcode_solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dak-shta/leetcode_solution/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dak-shta/leetcode_solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Sorting
@@ -196,6 +198,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dak-shta/leetcode_solution/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dak-shta/leetcode_solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,4 +207,12 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Dak-shta/leetcode_solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dak-shta/leetcode_solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Dak-shta/leetcode_solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
