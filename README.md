@@ -86,6 +86,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Dak-shta/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Dak-shta/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0061-rotate-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0061-rotate-list/) | Medium |
 | [0148-sort-list](https://github.com/Dak-shta/leetcode_solution/tree/main/0148-sort-list/) | Medium |
@@ -95,6 +96,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Dak-shta/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Dak-shta/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dak-shta/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dak-shta/leetcode_solution/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -218,4 +220,8 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Dak-shta/leetcode_solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Dak-shta/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
