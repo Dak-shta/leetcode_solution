@@ -108,6 +108,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | [1019-next-greater-node-in-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/Dak-shta/leetcode_solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dak-shta/leetcode_solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dak-shta/leetcode_solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2848-points-that-intersect-with-cars](https://github.com/Dak-shta/leetcode_solution/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dak-shta/leetcode_solution/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dak-shta/leetcode_solution/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -140,6 +141,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0817-linked-list-components](https://github.com/Dak-shta/leetcode_solution/tree/main/0817-linked-list-components/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Dak-shta/leetcode_solution/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dak-shta/leetcode_solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2848-points-that-intersect-with-cars](https://github.com/Dak-shta/leetcode_solution/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dak-shta/leetcode_solution/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
@@ -204,6 +206,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dak-shta/leetcode_solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dak-shta/leetcode_solution/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Dak-shta/leetcode_solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Design
