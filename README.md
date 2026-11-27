@@ -96,6 +96,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Dak-shta/leetcode_solution/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Dak-shta/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Dak-shta/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dak-shta/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -133,6 +134,7 @@ Each problem is an opportunity to learn something new and improve upon previous 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Dak-shta/leetcode_solution/tree/main/0001-two-sum/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Dak-shta/leetcode_solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dak-shta/leetcode_solution/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
